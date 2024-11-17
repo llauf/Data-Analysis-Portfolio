@@ -1,0 +1,683 @@
+Date,Category,Subcategory,Expenses,Income
+2023-01-02,Transport,Public transport,42.0,0.0
+2023-01-02,Subscriptions,Not specified,35.0,0.0
+2023-01-03,Health,Pharmacy,72.0,0.0
+2023-01-03,Groceries,Not specified,31.0,0.0
+2023-01-03,Transport,Public transport,5.5,0.0
+2023-01-03,Eating out,Not specified,20.0,0.0
+2023-01-03,Clothes,Adult,425.0,0.0
+2023-01-03,Transport,Public transport,5.5,0.0
+2023-01-04,Health,Medical services,800.0,0.0
+2023-01-04,Transport,Public transport,5.5,0.0
+2023-01-04,Eating out,Lunch,97.0,0.0
+2023-01-04,Clothes,Adult,325.0,0.0
+2023-01-04,Eating out,Coffee,35.0,0.0
+2023-01-04,Transport,Public transport,5.5,0.0
+2023-01-04,Groceries,Not specified,15.0,0.0
+2023-01-04,Groceries,Not specified,8.0,0.0
+2023-01-05,Transport,Public transport,5.5,0.0
+2023-01-05,Transport,Public transport,5.5,0.0
+2023-01-08,Transport,Public transport,5.5,0.0
+2023-01-08,Groceries,Not specified,12.0,0.0
+2023-01-08,Transport,Public transport,5.5,0.0
+2023-01-09,House,Rent,4000.0,0.0
+2023-01-09,Salary,Salary,0.0,16176.0
+2023-01-09,Groceries,Not specified,53.0,0.0
+2023-01-09,Savings,Not specified,3500.0,0.0
+2023-01-09,Transport,Public transport,5.5,0.0
+2023-01-09,Transport,Taxi,78.0,0.0
+2023-01-11,Subscriptions,Not specified,51.0,0.0
+2023-01-11,Eating out,Food delivery,156.0,0.0
+2023-01-12,Eating out,Food delivery,100.0,0.0
+2023-01-13,Transport,Public transport,5.5,0.0
+2023-01-13,Charity,Not specified,100.0,0.0
+2023-01-14,Appliances,House appliances,43.0,0.0
+2023-01-14,Eating out,Lunch,80.0,0.0
+2023-01-14,Transport,Taxi,84.0,0.0
+2023-01-15,Health,Pharmacy,38.0,0.0
+2023-01-15,Charity,Not specified,100.0,0.0
+2023-01-15,Leisure,Books,14.0,0.0
+2023-01-16,Leisure,Videogames,17.9,0.0
+2023-01-16,Transport,Public transport,5.5,0.0
+2023-01-16,Eating out,Coffee,14.0,0.0
+2023-01-16,Transport,Taxi,73.0,0.0
+2023-01-17,Eating out,Food delivery,143.0,0.0
+2023-01-18,Eating out,Food delivery,105.0,0.0
+2023-01-18,Gifts,Not specified,135.0,0.0
+2023-01-21,Groceries,Not specified,60.0,0.0
+2023-01-22,Transport,Public transport,5.5,0.0
+2023-01-22,Eating out,Food delivery,178.0,0.0
+2023-01-23,Transport,Public transport,5.5,0.0
+2023-01-23,Groceries,Not specified,52.0,0.0
+2023-01-23,Travel,Hotel,364.0,0.0
+2023-01-24,Subscriptions,Not specified,4.0,0.0
+2023-01-24,Transport,Public transport,42.0,0.0
+2023-01-24,Health,Medical services,182.0,0.0
+2023-01-24,Eating out,Lunch,64.0,0.0
+2023-01-24,Groceries,Not specified,17.0,0.0
+2023-01-24,Eating out,Food delivery,60.0,0.0
+2023-01-25,Transport,Public transport,42.0,0.0
+2023-01-25,Other,Not specified,32.0,0.0
+2023-01-26,Health,Insurance,31.0,0.0
+2023-01-26,Groceries,Not specified,118.0,0.0
+2023-01-26,Eating out,Food delivery,137.0,0.0
+2023-01-27,Leisure,Videogames,319.0,0.0
+2023-01-29,Health,Pharmacy,36.0,0.0
+2023-01-29,Groceries,Not specified,85.0,0.0
+2023-01-30,Transport,Public transport,12.5,0.0
+2023-01-30,Eating out,Lunch,135.0,0.0
+2023-01-30,Transport,Taxi,40.0,0.0
+2023-01-31,Subscriptions,Not specified,32.0,0.0
+2023-02-01,Eating out,Food delivery,105.0,0.0
+2023-02-01,Subscriptions,Not specified,34.0,0.0
+2023-02-02,Eating out,Food delivery,257.0,0.0
+2023-02-03,Transport,Public transport,5.5,0.0
+2023-02-03,Leisure,Museums,100.0,0.0
+2023-02-03,Transport,Public transport,5.5,0.0
+2023-02-05,Groceries,Not specified,40.0,0.0
+2023-02-05,Groceries,Not specified,43.0,0.0
+2023-02-06,Transport,Public transport,5.5,0.0
+2023-02-07,Health,Pharmacy,76.0,0.0
+2023-02-07,Transport,Public transport,5.5,0.0
+2023-02-07,Groceries,Not specified,12.0,0.0
+2023-02-09,House,Rent,4000.0,0.0
+2023-02-09,Eating out,Food delivery,204.0,0.0
+2023-02-11,Subscriptions,Not specified,53.0,0.0
+2023-02-12,Benefit,Not specified,0.0,5528.0
+2023-02-13,Transport,Public transport,42.0,0.0
+2023-02-13,Eating out,Lunch,64.0,0.0
+2023-02-13,Eating out,Lunch,50.0,0.0
+2023-02-13,Other,Not specified,105.0,0.0
+2023-02-13,Transport,Taxi,60.0,0.0
+2023-02-14,Eating out,Food delivery,135.0,0.0
+2023-02-16,Eating out,Food delivery,216.0,0.0
+2023-02-16,Groceries,Not specified,129.0,0.0
+2023-02-16,Gifts,Not specified,278.43,0.0
+2023-02-20,Transport,Public transport,5.5,0.0
+2023-02-20,Groceries,Not specified,132.0,0.0
+2023-02-21,Eating out,Food delivery,119.0,0.0
+2023-02-22,Other,Not specified,48.0,0.0
+2023-02-23,Groceries,Not specified,62.0,0.0
+2023-02-25,Leisure,Books,18.0,0.0
+2023-02-25,Eating out,Food delivery,153.0,0.0
+2023-02-26,Groceries,Not specified,132.0,0.0
+2023-02-26,Transport,Public transport,5.5,0.0
+2023-02-26,Transport,Public transport,5.5,0.0
+2023-02-27,Eating out,Food delivery,130.0,0.0
+2023-02-28,Health,Medical services,193.0,0.0
+2023-02-28,Leisure,Videogames,300.0,0.0
+2023-03-01,Groceries,Not specified,72.5,0.0
+2023-03-01,Subscriptions,Not specified,18.0,0.0
+2023-03-03,Transport,Public transport,5.5,0.0
+2023-03-03,Groceries,Not specified,24.0,0.0
+2023-03-03,Transport,Public transport,5.5,0.0
+2023-03-05,Groceries,Not specified,105.0,0.0
+2023-03-06,Groceries,Not specified,10.3,0.0
+2023-03-06,Health,Medical services,400.0,0.0
+2023-03-06,Eating out,Food delivery,178.0,0.0
+2023-03-07,Subscriptions,Not specified,20.0,0.0
+2023-03-07,Transport,Public transport,42.0,0.0
+2023-03-07,Groceries,Not specified,13.0,0.0
+2023-03-07,Groceries,Not specified,19.0,0.0
+2023-03-08,Eating out,Food delivery,140.0,0.0
+2023-03-09,House,Rent,4000.0,0.0
+2023-03-09,Groceries,Not specified,121.0,0.0
+2023-03-11,Subscriptions,Not specified,54.0,0.0
+2023-03-12,Health,Insurance,185.0,0.0
+2023-03-12,Not specified,Not specified,144.0,0.0
+2023-03-12,Benefit,Not specified,0.0,7804.0
+2023-03-13,Transport,Public transport,9.0,0.0
+2023-03-13,Groceries,Not specified,52.0,0.0
+2023-03-13,Groceries,Not specified,47.0,0.0
+2023-03-13,Eating out,Lunch,8.0,0.0
+2023-03-13,Transport,Taxi,75.0,0.0
+2023-03-13,Beauty,Cosmetics,394.0,0.0
+2023-03-13,Eating out,Coffee,53.0,0.0
+2023-03-13,Transport,Taxi,104.0,0.0
+2023-03-14,Health,Pharmacy,94.0,0.0
+2023-03-14,Groceries,Not specified,6.0,0.0
+2023-03-15,Eating out,Food delivery,77.0,0.0
+2023-03-16,Transport,Public transport,5.5,0.0
+2023-03-23,Eating out,Food delivery,131.0,0.0
+2023-03-24,Eating out,Food delivery,198.0,0.0
+2023-03-26,Groceries,Not specified,190.53,0.0
+2023-03-27,Health,Pharmacy,38.0,0.0
+2023-03-27,Transport,Public transport,5.5,0.0
+2023-03-27,Leisure,Videogames,36.0,0.0
+2023-03-28,Subscriptions,Not specified,20.0,0.0
+2023-03-30,Eating out,Food delivery,121.0,0.0
+2023-03-30,Gifts,Not specified,317.0,0.0
+2023-03-31,Transport,Public transport,42.0,0.0
+2023-04-01,Eating out,Food delivery,164.0,0.0
+2023-04-01,Leisure,Books,18.0,0.0
+2023-04-02,Groceries,Not specified,207.0,0.0
+2023-04-02,Groceries,Not specified,9.0,0.0
+2023-04-03,Benefit,Not specified,0.0,5203.0
+2023-04-03,Groceries,Not specified,11.0,0.0
+2023-04-03,Groceries,Not specified,14.0,0.0
+2023-04-03,Leisure,Books,20.0,0.0
+2023-04-04,Leisure,"Cinema, theater, concerts",750.0,0.0
+2023-04-04,Transport,Public transport,5.5,0.0
+2023-04-04,Transport,Public transport,5.5,0.0
+2023-04-08,Transport,Taxi,70.0,0.0
+2023-04-08,Leisure,Activities,20.0,0.0
+2023-04-09,House,Rent,4000.0,0.0
+2023-04-09,Eating out,Food delivery,75.0,0.0
+2023-04-10,Subscriptions,Not specified,20.0,0.0
+2023-04-10,Health,Medical services,111.0,0.0
+2023-04-10,Leisure,Books,20.0,0.0
+2023-04-11,Transport,Public transport,5.5,0.0
+2023-04-11,Subscriptions,Not specified,55.0,0.0
+2023-04-11,Groceries,Not specified,17.6,0.0
+2023-04-12,Eating out,Food delivery,262.0,0.0
+2023-04-13,Health,Insurance,186.0,0.0
+2023-04-13,Transport,Public transport,5.5,0.0
+2023-04-13,Leisure,Museums,94.0,0.0
+2023-04-13,Transport,Public transport,5.5,0.0
+2023-04-13,Eating out,Food delivery,187.0,0.0
+2023-04-13,Refund,Not specified,0.0,102.0
+2023-04-14,Pets,Pet food,92.0,0.0
+2023-04-16,Health,Pharmacy,162.0,0.0
+2023-04-16,Hygiene,Not specified,37.0,0.0
+2023-04-17,Eating out,Food delivery,137.0,0.0
+2023-04-17,Groceries,Not specified,158.0,0.0
+2023-04-18,Health,Pharmacy,38.0,0.0
+2023-04-18,Groceries,Not specified,14.0,0.0
+2023-04-18,Groceries,Not specified,27.0,0.0
+2023-04-19,Leisure,Videogames,79.0,0.0
+2023-04-21,Transport,Public transport,5.5,0.0
+2023-04-21,Eating out,Lunch,44.0,0.0
+2023-04-21,Transport,Public transport,5.5,0.0
+2023-04-22,Groceries,Not specified,49.0,0.0
+2023-04-23,Health,Medical services,113.0,0.0
+2023-04-24,Health,Insurance,31.0,0.0
+2023-04-24,Groceries,Not specified,38.0,0.0
+2023-04-24,Eating out,Food delivery,127.0,0.0
+2023-04-25,Subscriptions,Not specified,4.0,0.0
+2023-04-25,Groceries,Not specified,19.0,0.0
+2023-04-25,Leisure,Books,14.0,0.0
+2023-04-26,Other,Not specified,14.0,0.0
+2023-04-28,Travel,Insurance,54.0,0.0
+2023-04-28,Transport,Public transport,5.5,0.0
+2023-04-28,Clothes,Accesories,100.0,0.0
+2023-04-28,Eating out,Lunch,20.0,0.0
+2023-04-28,Transport,Public transport,5.5,0.0
+2023-04-28,Leisure,Books,14.0,0.0
+2023-04-29,Eating out,Food delivery,176.0,0.0
+2023-04-30,Groceries,Not specified,38.0,0.0
+2023-04-30,Groceries,Not specified,30.0,0.0
+2023-04-30,Groceries,Not specified,36.0,0.0
+2023-05-01,Transport,Public transport,5.5,0.0
+2023-05-01,House,Furniture,40.0,0.0
+2023-05-01,Eating out,Lunch,59.0,0.0
+2023-05-01,Transport,Public transport,5.5,0.0
+2023-05-01,Groceries,Not specified,20.0,0.0
+2023-05-01,Subscriptions,Not specified,18.0,0.0
+2023-05-02,Travel,Not specified,68.0,0.0
+2023-05-03,Transport,Taxi,109.5,0.0
+2023-05-03,Eating out,Fast food,51.0,0.0
+2023-05-05,Leisure,Books,20.0,0.0
+2023-05-07,Subscriptions,Not specified,20.0,0.0
+2023-05-07,Health,Medical services,113.0,0.0
+2023-05-07,Eating out,Food delivery,126.0,0.0
+2023-05-08,Transport,Public transport,5.5,0.0
+2023-05-09,House,Rent,4000.0,0.0
+2023-05-09,Groceries,Not specified,45.0,0.0
+2023-05-09,Groceries,Not specified,33.0,0.0
+2023-05-10,Transport,Public transport,5.5,0.0
+2023-05-10,Groceries,Not specified,13.0,0.0
+2023-05-10,Eating out,Food delivery,160.0,0.0
+2023-05-11,Health,Insurance,187.0,0.0
+2023-05-11,Subscriptions,Not specified,55.0,0.0
+2023-05-12,Transport,Public transport,5.5,0.0
+2023-05-12,Benefit,Not specified,0.0,8130.0
+2023-05-12,Eating out,Food delivery,223.0,0.0
+2023-05-12,Leisure,Videogames,270.0,0.0
+2023-05-14,Groceries,Not specified,99.0,0.0
+2023-05-14,Eating out,Food delivery,81.0,0.0
+2023-05-15,Transport,Public transport,5.5,0.0
+2023-05-15,Transport,Taxi,19.0,0.0
+2023-05-15,Gifts,Not specified,854.0,0.0
+2023-05-16,Health,Pharmacy,114.0,0.0
+2023-05-16,Groceries,Not specified,69.0,0.0
+2023-05-19,Eating out,Food delivery,136.0,0.0
+2023-05-19,Clothes,Adult,102.0,0.0
+2023-05-19,Leisure,Hobbies,36.0,0.0
+2023-05-21,Health,Medical services,109.0,0.0
+2023-05-21,Groceries,Not specified,33.8,0.0
+2023-05-21,Other,Not specified,40.0,0.0
+2023-05-22,Transport,Public transport,5.5,0.0
+2023-05-23,Eating out,Food delivery,85.0,0.0
+2023-05-23,Eating out,Food delivery,122.0,0.0
+2023-05-25,Subscriptions,Not specified,4.0,0.0
+2023-05-25,Transport,Public transport,5.5,0.0
+2023-05-25,Eating out,Coffee,25.0,0.0
+2023-05-25,Eating out,Lunch,25.0,0.0
+2023-05-25,Transport,Public transport,5.5,0.0
+2023-05-26,Groceries,Not specified,49.0,0.0
+2023-05-28,Health,Medical services,1200.0,0.0
+2023-05-28,Health,Sport,100.0,0.0
+2023-05-28,Eating out,Food delivery,128.0,0.0
+2023-05-29,Transport,Public transport,5.5,0.0
+2023-05-29,Hygiene,Not specified,58.0,0.0
+2023-05-29,Groceries,Not specified,42.0,0.0
+2023-05-30,Health,Insurance,31.43,0.0
+2023-05-30,Transport,Public transport,5.5,0.0
+2023-05-30,Groceries,Not specified,74.0,0.0
+2023-05-30,Groceries,Not specified,73.0,0.0
+2023-05-30,Leisure,"Cinema, theater, concerts",180.0,0.0
+2023-05-31,Groceries,Not specified,146.0,0.0
+2023-06-01,Subscriptions,Not specified,19.37,0.0
+2023-06-01,Subscriptions,Not specified,32.0,0.0
+2023-06-01,Part-time job,Not specified,0.0,100.0
+2023-06-02,Eating out,Food delivery,134.0,0.0
+2023-06-03,Leisure,Museums,200.0,0.0
+2023-06-04,Health,Medical services,112.0,0.0
+2023-06-04,Eating out,Food delivery,104.0,0.0
+2023-06-04,Transport,Public transport,5.5,0.0
+2023-06-04,Transport,Public transport,5.5,0.0
+2023-06-05,Transport,Taxi,107.0,0.0
+2023-06-06,Groceries,Not specified,240.0,0.0
+2023-06-06,Other,Not specified,250.0,0.0
+2023-06-06,Transport,Public transport,5.5,0.0
+2023-06-06,Groceries,Not specified,22.0,0.0
+2023-06-06,Transport,Public transport,5.5,0.0
+2023-06-07,Subscriptions,Not specified,20.0,0.0
+2023-06-07,Transport,Public transport,5.5,0.0
+2023-06-07,Transport,Public transport,5.5,0.0
+2023-06-08,Transport,Public transport,5.5,0.0
+2023-06-08,Eating out,Lunch,61.0,0.0
+2023-06-08,Transport,Taxi,74.0,0.0
+2023-06-09,House,Rent,4000.0,0.0
+2023-06-10,Eating out,Food delivery,237.0,0.0
+2023-06-10,Gifts,Not specified,0.0,1000.0
+2023-06-11,Health,Insurance,188.0,0.0
+2023-06-11,Health,Pharmacy,216.0,0.0
+2023-06-11,Groceries,Not specified,72.0,0.0
+2023-06-11,Groceries,Not specified,41.0,0.0
+2023-06-12,Subscriptions,Not specified,54.0,0.0
+2023-06-12,Eating out,Food delivery,80.0,0.0
+2023-06-13,Groceries,Not specified,9.4,0.0
+2023-06-13,Health,Pharmacy,75.0,0.0
+2023-06-13,Groceries,Not specified,69.0,0.0
+2023-06-13,Health,Sport,150.0,0.0
+2023-06-13,Benefit,Not specified,0.0,5854.0
+2023-06-14,Groceries,Not specified,36.0,0.0
+2023-06-14,Eating out,Food delivery,183.0,0.0
+2023-06-15,Transport,Public transport,5.5,0.0
+2023-06-15,Groceries,Not specified,14.0,0.0
+2023-06-18,Health,Medical services,108.0,0.0
+2023-06-18,Transport,Public transport,5.5,0.0
+2023-06-18,Transport,Public transport,5.5,0.0
+2023-06-20,Transport,Public transport,5.5,0.0
+2023-06-20,Eating out,Lunch,40.0,0.0
+2023-06-20,Transport,Public transport,5.5,0.0
+2023-06-22,Transport,Public transport,5.5,0.0
+2023-06-25,Subscriptions,Not specified,4.0,0.0
+2023-06-25,Health,Pharmacy,45.7,0.0
+2023-06-25,Groceries,Not specified,50.0,0.0
+2023-06-26,House,Not specified,129.0,0.0
+2023-06-27,Leisure,Hobbies,30.0,0.0
+2023-06-29,Transport,Public transport,5.5,0.0
+2023-06-29,Clothes,Adult,60.0,0.0
+2023-06-29,Clothes,Adult,160.0,0.0
+2023-06-29,Transport,Public transport,5.5,0.0
+2023-06-29,Groceries,Not specified,23.0,0.0
+2023-06-30,Other,Not specified,74.0,0.0
+2023-06-30,Transport,Taxi,87.0,0.0
+2023-07-01,Subscriptions,Not specified,32.0,0.0
+2023-07-01,Subscriptions,Not specified,18.55,0.0
+2023-07-01,Subscriptions,Not specified,149.0,0.0
+2023-07-01,Health,Medical services,112.0,0.0
+2023-07-02,Transport,Public transport,5.5,0.0
+2023-07-02,Transport,Public transport,5.5,0.0
+2023-07-03,Transport,Public transport,5.5,0.0
+2023-07-04,Gifts,Not specified,0.0,724.0
+2023-07-04,Hygiene,Not specified,23.0,0.0
+2023-07-04,Hygiene,Not specified,142.0,0.0
+2023-07-04,Groceries,Not specified,39.0,0.0
+2023-07-04,Groceries,Not specified,20.0,0.0
+2023-07-06,Groceries,Not specified,39.0,0.0
+2023-07-06,Groceries,Not specified,13.0,0.0
+2023-07-07,Subscriptions,Not specified,20.0,0.0
+2023-07-08,Groceries,Not specified,12.0,0.0
+2023-07-09,House,Rent,4000.0,0.0
+2023-07-09,Groceries,Not specified,177.0,0.0
+2023-07-09,Groceries,Not specified,25.0,0.0
+2023-07-09,Groceries,Not specified,5.2,0.0
+2023-07-10,Health,Insurance,188.0,0.0
+2023-07-10,Transport,Public transport,42.0,0.0
+2023-07-10,Refund,Not specified,0.0,700.0
+2023-07-10,Groceries,Not specified,59.0,0.0
+2023-07-10,Health,Pharmacy,70.0,0.0
+2023-07-11,Groceries,Not specified,65.0,0.0
+2023-07-11,Groceries,Not specified,28.0,0.0
+2023-07-12,Subscriptions,Not specified,54.71,0.0
+2023-07-12,Groceries,Not specified,113.0,0.0
+2023-07-13,Transport,Public transport,5.5,0.0
+2023-07-13,Eating out,Lunch,242.0,0.0
+2023-07-13,Transport,Public transport,5.5,0.0
+2023-07-15,Health,Medical services,112.26,0.0
+2023-07-16,Groceries,Not specified,13.0,0.0
+2023-07-16,Groceries,Not specified,22.0,0.0
+2023-07-16,Groceries,Not specified,22.0,0.0
+2023-07-16,Other,Not specified,0.0,600.0
+2023-07-19,Groceries,Not specified,123.0,0.0
+2023-07-21,Transport,Public transport,5.5,0.0
+2023-07-21,Eating out,Coffee,33.0,0.0
+2023-07-21,Transport,Public transport,5.5,0.0
+2023-07-21,Groceries,Not specified,45.0,0.0
+2023-07-22,Groceries,Not specified,8.0,0.0
+2023-07-23,Leisure,Books,15.0,0.0
+2023-07-24,Transport,Public transport,5.5,0.0
+2023-07-24,Health,Pharmacy,120.0,0.0
+2023-07-24,Hygiene,Not specified,23.9,0.0
+2023-07-24,Groceries,Not specified,53.0,0.0
+2023-07-24,Groceries,Not specified,56.0,0.0
+2023-07-25,Subscriptions,Not specified,4.0,0.0
+2023-07-25,Gifts,Not specified,109.0,0.0
+2023-07-26,Groceries,Not specified,21.2,0.0
+2023-07-26,Groceries,Not specified,22.0,0.0
+2023-07-26,Refund,Not specified,0.0,17.0
+2023-07-29,Health,Medical services,112.0,0.0
+2023-07-31,Health,Pharmacy,47.5,0.0
+2023-07-31,Groceries,Not specified,49.0,0.0
+2023-07-31,Leisure,Hobbies,116.0,0.0
+2023-08-01,Subscriptions,Not specified,32.0,0.0
+2023-08-01,Subscriptions,Not specified,18.18,0.0
+2023-08-02,Other,Not specified,111.0,0.0
+2023-08-05,Groceries,Not specified,100.0,0.0
+2023-08-07,Subscriptions,Not specified,20.0,0.0
+2023-08-07,Groceries,Not specified,179.0,0.0
+2023-08-07,Other,Not specified,32.0,0.0
+2023-08-08,Transport,Public transport,5.5,0.0
+2023-08-08,Transport,Public transport,5.5,0.0
+2023-08-09,House,Rent,4000.0,0.0
+2023-08-09,Eating out,Food delivery,184.0,0.0
+2023-08-10,Health,Insurance,188.0,0.0
+2023-08-10,Etsy,Package,9.0,0.0
+2023-08-10,Refund,Not specified,0.0,700.0
+2023-08-10,Leisure,Videogames,7.0,0.0
+2023-08-10,Transport,Public transport,42.0,0.0
+2023-08-10,Eating out,Lunch,59.0,0.0
+2023-08-11,Etsy,Post,10.0,0.0
+2023-08-12,Subscriptions,Not specified,55.91,0.0
+2023-08-13,Transport,Public transport,5.5,0.0
+2023-08-13,Transport,Public transport,5.5,0.0
+2023-08-14,Transport,Public transport,5.5,0.0
+2023-08-14,Eating out,Lunch,25.0,0.0
+2023-08-14,Transport,Public transport,5.5,0.0
+2023-08-14,Eating out,Food delivery,105.0,0.0
+2023-08-16,Groceries,Not specified,43.4,0.0
+2023-08-16,Groceries,Not specified,81.0,0.0
+2023-08-16,Groceries,Not specified,10.0,0.0
+2023-08-16,Part-time job,Not specified,0.0,20.0
+2023-08-16,Etsy,Printing,308.0,0.0
+2023-08-17,Transport,Public transport,5.5,0.0
+2023-08-17,Eating out,Coffee,12.0,0.0
+2023-08-17,Transport,Public transport,5.5,0.0
+2023-08-18,Transport,Public transport,5.5,0.0
+2023-08-18,Transport,Public transport,5.5,0.0
+2023-08-21,Transport,Public transport,5.5,0.0
+2023-08-21,Transport,Taxi,53.0,0.0
+2023-08-21,Eating out,Restaurant,361.0,0.0
+2023-08-22,Hygiene,Not specified,24.8,0.0
+2023-08-22,Groceries,Not specified,41.8,0.0
+2023-08-22,Health,Pharmacy,500.0,0.0
+2023-08-24,Eating out,Food delivery,90.0,0.0
+2023-08-25,Subscriptions,Not specified,4.0,0.0
+2023-08-25,Eating out,Food delivery,151.0,0.0
+2023-08-26,Leisure,Videogames,20.0,0.0
+2023-08-26,Groceries,Not specified,16.4,0.0
+2023-08-27,Transport,Public transport,42.0,0.0
+2023-08-27,Groceries,Not specified,33.0,0.0
+2023-08-29,Transport,Public transport,5.5,0.0
+2023-08-29,Transport,Public transport,5.5,0.0
+2023-08-29,Groceries,Not specified,41.0,0.0
+2023-08-31,Groceries,Not specified,208.4,0.0
+2023-08-31,Salary,Salary,0.0,2073.0
+2023-09-01,Subscriptions,Not specified,32.0,0.0
+2023-09-01,Subscriptions,Not specified,18.98,0.0
+2023-09-01,Transport,Public transport,5.5,0.0
+2023-09-01,Gifts,Not specified,125.0,0.0
+2023-09-01,Eating out,Food delivery,146.0,0.0
+2023-09-02,Etsy,Commissions,2.07,0.0
+2023-09-03,Hygiene,Not specified,177.0,0.0
+2023-09-03,Hygiene,Not specified,165.0,0.0
+2023-09-03,Health,Medical services,112.0,0.0
+2023-09-05,Salary,Salary,0.0,823.2
+2023-09-05,Transport,Public transport,5.5,0.0
+2023-09-05,Eating out,Coffee,26.0,0.0
+2023-09-05,Transport,Public transport,5.5,0.0
+2023-09-06,Charity,Not specified,51.0,0.0
+2023-09-07,Subscriptions,Not specified,20.0,0.0
+2023-09-07,Transport,Public transport,5.5,0.0
+2023-09-07,Leisure,Books,60.0,0.0
+2023-09-07,Transport,Taxi,89.4,0.0
+2023-09-09,House,Rent,4000.0,0.0
+2023-09-09,Eating out,Food delivery,111.0,0.0
+2023-09-10,Health,Insurance,188.0,0.0
+2023-09-11,Gifts,Not specified,200.0,0.0
+2023-09-12,Subscriptions,Not specified,57.11,0.0
+2023-09-12,Hygiene,Not specified,23.0,0.0
+2023-09-12,Leisure,Hobbies,10.0,0.0
+2023-09-12,Salary,Salary,0.0,3016.51
+2023-09-13,Groceries,Not specified,116.0,0.0
+2023-09-14,Subscriptions,Not specified,757.0,0.0
+2023-09-14,Transport,Public transport,5.5,0.0
+2023-09-14,Transport,Public transport,5.5,0.0
+2023-09-15,Eating out,Food delivery,135.0,0.0
+2023-09-16,Leisure,Museums,44.0,0.0
+2023-09-17,Eating out,Food delivery,262.0,0.0
+2023-09-17,Gifts,Not specified,0.0,500.0
+2023-09-17,Other,Not specified,0.0,50.0
+2023-09-18,Auto,Gas,130.0,0.0
+2023-09-18,Gifts,Not specified,402.0,0.0
+2023-09-18,Eating out,Coffee,49.0,0.0
+2023-09-18,Eating out,Fast food,20.0,0.0
+2023-09-19,Transport,Taxi,80.0,0.0
+2023-09-19,Groceries,Not specified,34.0,0.0
+2023-09-19,Groceries,Not specified,24.0,0.0
+2023-09-19,Salary,Salary,0.0,1840.0
+2023-09-19,Transport,Public transport,50.0,0.0
+2023-09-21,Groceries,Not specified,93.0,0.0
+2023-09-21,Groceries,Not specified,8.0,0.0
+2023-09-21,Eating out,Food delivery,115.0,0.0
+2023-09-22,Beauty,Beauty salon,170.0,0.0
+2023-09-22,Hygiene,Not specified,13.0,0.0
+2023-09-23,Health,Medical services,109.34,0.0
+2023-09-25,Subscriptions,Not specified,4.0,0.0
+2023-09-26,Transport,Public transport,5.5,0.0
+2023-09-26,Other,Not specified,15.0,0.0
+2023-09-26,Salary,Salary,0.0,2004.0
+2023-09-26,Transport,Public transport,5.5,0.0
+2023-09-26,Savings,Not specified,200.0,0.0
+2023-09-26,Eating out,Food delivery,131.0,0.0
+2023-09-26,Clothes,Accesories,73.0,0.0
+2023-09-27,Transport,Public transport,18.0,0.0
+2023-09-27,Eating out,Lunch,42.0,0.0
+2023-09-28,Transport,Public transport,5.5,0.0
+2023-09-28,Gifts,Not specified,250.0,0.0
+2023-09-28,Transport,Taxi,73.0,0.0
+2023-09-28,Transport,Taxi,12.0,0.0
+2023-09-28,Transport,Taxi,70.0,0.0
+2023-09-28,Part-time job,Not specified,0.0,25.0
+2023-09-29,Eating out,Food delivery,138.0,0.0
+2023-09-30,Eating out,Food delivery,165.0,0.0
+2023-10-01,Subscriptions,Not specified,32.0,0.0
+2023-10-01,Subscriptions,Not specified,19.05,0.0
+2023-10-01,Transport,Public transport,42.0,0.0
+2023-10-01,Groceries,Not specified,6.0,0.0
+2023-10-01,Groceries,Not specified,17.0,0.0
+2023-10-02,Leisure,"Cinema, theater, concerts",376.0,0.0
+2023-10-03,Leisure,Books,10.0,0.0
+2023-10-04,Salary,Salary,0.0,2082.0
+2023-10-04,Savings,Not specified,200.0,0.0
+2023-10-05,Eating out,Food delivery,192.0,0.0
+2023-10-06,Transport,Taxi,194.0,0.0
+2023-10-07,Subscriptions,Not specified,20.0,0.0
+2023-10-08,Health,Medical services,110.0,0.0
+2023-10-08,Eating out,Food delivery,247.0,0.0
+2023-10-08,Charity,Not specified,50.0,0.0
+2023-10-09,House,Rent,4000.0,0.0
+2023-10-10,Health,Insurance,188.0,0.0
+2023-10-10,Salary,Salary,0.0,3263.0
+2023-10-10,Groceries,Not specified,328.0,0.0
+2023-10-12,Subscriptions,Not specified,59.54,0.0
+2023-10-13,Other,Not specified,132.0,0.0
+2023-10-13,Eating out,Food delivery,189.0,0.0
+2023-10-15,Eating out,Food delivery,127.0,0.0
+2023-10-17,Salary,Salary,0.0,2821.0
+2023-10-17,Savings,Not specified,200.0,0.0
+2023-10-17,Charity,Not specified,100.0,0.0
+2023-10-18,Gifts,Not specified,399.0,0.0
+2023-10-18,Groceries,Not specified,219.0,0.0
+2023-10-19,Eating out,Food delivery,126.0,0.0
+2023-10-19,Eating out,Food delivery,160.0,0.0
+2023-10-20,Groceries,Not specified,9.0,0.0
+2023-10-23,Eating out,Food delivery,121.0,0.0
+2023-10-23,Subscriptions,Not specified,20.0,0.0
+2023-10-24,Salary,Salary,0.0,4031.0
+2023-10-24,Savings,Not specified,400.0,0.0
+2023-10-24,Charity,Not specified,100.0,0.0
+2023-10-25,Subscriptions,Not specified,4.0,0.0
+2023-10-26,Beauty,Cosmetics,990.0,0.0
+2023-10-27,Gifts,Not specified,408.0,0.0
+2023-10-27,Eating out,Food delivery,221.0,0.0
+2023-10-30,Eating out,Food delivery,183.0,0.0
+2023-11-01,Subscriptions,Not specified,32.0,0.0
+2023-11-01,Subscriptions,Not specified,40.14,0.0
+2023-11-02,Salary,Salary,0.0,3709.0
+2023-11-02,Savings,Not specified,400.0,0.0
+2023-11-02,Charity,Not specified,100.0,0.0
+2023-11-02,Leisure,Books,10.0,0.0
+2023-11-03,Eating out,Food delivery,155.0,0.0
+2023-11-05,Health,Medical services,115.0,0.0
+2023-11-07,Subscriptions,Not specified,20.0,0.0
+2023-11-07,Clothes,Adult,224.0,0.0
+2023-11-07,Clothes,Accesories,85.0,0.0
+2023-11-07,Gifts,Not specified,25.0,0.0
+2023-11-08,Salary,Salary,0.0,3662.0
+2023-11-08,Savings,Not specified,1100.0,0.0
+2023-11-08,Charity,Not specified,100.0,0.0
+2023-11-09,House,Rent,4000.0,0.0
+2023-11-09,Leisure,Books,15.0,0.0
+2023-11-10,Health,Insurance,188.0,0.0
+2023-11-10,Transport,Taxi,106.0,0.0
+2023-11-10,Eating out,Food delivery,248.0,0.0
+2023-11-10,Leisure,Videogames,64.0,0.0
+2023-11-11,Eating out,Food delivery,182.0,0.0
+2023-11-11,Leisure,Books,33.0,0.0
+2023-11-11,Leisure,Books,15.0,0.0
+2023-11-12,Subscriptions,Not specified,58.06,0.0
+2023-11-14,Groceries,Not specified,5.0,0.0
+2023-11-15,Salary,Salary,0.0,3579.0
+2023-11-15,Savings,Not specified,500.0,0.0
+2023-11-15,Charity,Not specified,100.0,0.0
+2023-11-15,Health,Pharmacy,37.1,0.0
+2023-11-15,Other,Not specified,172.0,0.0
+2023-11-16,Groceries,Not specified,69.0,0.0
+2023-11-16,Eating out,Lunch,155.0,0.0
+2023-11-16,Eating out,Food delivery,153.0,0.0
+2023-11-17,Gifts,Not specified,306.0,0.0
+2023-11-17,Gifts,Not specified,122.5,0.0
+2023-11-18,Gifts,Not specified,399.0,0.0
+2023-11-21,Eating out,Food delivery,94.0,0.0
+2023-11-21,Salary,Salary,0.0,3556.0
+2023-11-22,Appliances,Electronics,2292.0,0.0
+2023-11-22,Savings,Not specified,2000.0,0.0
+2023-11-22,Groceries,Not specified,169.0,0.0
+2023-11-23,Gifts,Not specified,64.0,0.0
+2023-11-23,Eating out,Food delivery,137.0,0.0
+2023-11-25,Subscriptions,Not specified,4.0,0.0
+2023-11-25,Eating out,Food delivery,260.0,0.0
+2023-11-26,Beauty,Cosmetics,24.0,0.0
+2023-11-26,Health,Inventory,1459.0,0.0
+2023-11-26,Gifts,Not specified,52.0,0.0
+2023-11-26,Other,Not specified,50.0,0.0
+2023-11-28,Eating out,Food delivery,151.0,0.0
+2023-11-29,Salary,Salary,0.0,3499.33
+2023-11-29,Business services,Not specified,250.0,0.0
+2023-11-29,Savings,Not specified,1000.0,0.0
+2023-11-29,Clothes,Adult,571.0,0.0
+2023-11-30,Other,Not specified,47.0,0.0
+2023-11-30,Eating out,Food delivery,217.0,0.0
+2023-12-01,Subscriptions,Not specified,32.0,0.0
+2023-12-01,Subscriptions,Not specified,37.17,0.0
+2023-12-02,Health,Medical services,111.0,0.0
+2023-12-02,Eating out,Food delivery,113.0,0.0
+2023-12-02,Charity,Not specified,200.0,0.0
+2023-12-03,Transport,Public transport,5.5,0.0
+2023-12-03,Pets,Veterinary,250.0,0.0
+2023-12-03,House,Not specified,956.0,0.0
+2023-12-03,Transport,Taxi,85.0,0.0
+2023-12-03,Transport,Taxi,84.0,0.0
+2023-12-03,Leisure,Videogames,35.0,0.0
+2023-12-04,Health,Medical services,350.0,0.0
+2023-12-05,Business services,Not specified,125.0,0.0
+2023-12-05,State,Taxes,147.0,0.0
+2023-12-05,Salary,Salary,0.0,3675.0
+2023-12-05,Charity,Not specified,100.0,0.0
+2023-12-06,Groceries,Not specified,21.0,0.0
+2023-12-06,Groceries,Not specified,39.0,0.0
+2023-12-07,Subscriptions,Not specified,20.0,0.0
+2023-12-07,Gifts,Not specified,200.0,0.0
+2023-12-08,Transport,Public transport,5.5,0.0
+2023-12-08,Clothes,Accesories,180.0,0.0
+2023-12-08,Transport,Public transport,5.5,0.0
+2023-12-08,Eating out,Food delivery,212.0,0.0
+2023-12-09,House,Rent,4000.0,0.0
+2023-12-10,Health,Insurance,188.0,0.0
+2023-12-10,Eating out,Food delivery,125.0,0.0
+2023-12-10,Health,Pharmacy,68.5,0.0
+2023-12-11,State,Taxes,177.0,0.0
+2023-12-11,Groceries,Not specified,195.0,0.0
+2023-12-12,Gifts,Not specified,100.0,0.0
+2023-12-12,Salary,Salary,0.0,3451.66
+2023-12-12,Eating out,Food delivery,67.0,0.0
+2023-12-12,Eating out,Food delivery,243.0,0.0
+2023-12-13,Health,Pharmacy,30.0,0.0
+2023-12-13,Health,Medical services,300.0,0.0
+2023-12-14,Groceries,Not specified,68.67,0.0
+2023-12-14,Other,Not specified,210.0,0.0
+2023-12-14,Beauty,Cosmetics,144.0,0.0
+2023-12-15,Transport,Taxi,95.0,0.0
+2023-12-17,Groceries,Not specified,181.0,0.0
+2023-12-17,Eating out,Food delivery,117.0,0.0
+2023-12-18,Gifts,Not specified,399.0,0.0
+2023-12-18,Transport,Public transport,5.5,0.0
+2023-12-18,Groceries,Not specified,52.0,0.0
+2023-12-19,Salary,Salary,0.0,3897.73
+2023-12-19,Health,Sport,120.0,0.0
+2023-12-20,Eating out,Food delivery,118.0,0.0
+2023-12-21,Eating out,Food delivery,138.0,0.0
+2023-12-21,Groceries,Not specified,177.65,0.0
+2023-12-21,Groceries,Not specified,16.0,0.0
+2023-12-22,Appliances,Electronics,2290.0,0.0
+2023-12-22,Transport,Public transport,5.5,0.0
+2023-12-22,Leisure,Books,283.5,0.0
+2023-12-22,Groceries,Not specified,15.0,0.0
+2023-12-22,Health,Pharmacy,37.08,0.0
+2023-12-22,Transport,Public transport,5.5,0.0
+2023-12-23,Health,Medical services,107.63,0.0
+2023-12-24,Eating out,Food delivery,132.0,0.0
+2023-12-24,Groceries,Not specified,100.0,0.0
+2023-12-25,Subscriptions,Not specified,4.0,0.0
+2023-12-26,Refund,Not specified,0.0,587.1
+2023-12-26,Transport,Public transport,5.5,0.0
+2023-12-26,Eating out,Food delivery,93.0,0.0
+2023-12-26,Salary,Salary,0.0,3581.43
+2023-12-26,Savings,Not specified,500.0,0.0
+2023-12-27,Gifts,Not specified,354.0,0.0
+2023-12-27,Hygiene,Not specified,156.0,0.0
+2023-12-28,Gifts,Not specified,75.0,0.0
+2023-12-28,Eating out,Food delivery,94.0,0.0
+2023-12-29,Health,Pharmacy,25.0,0.0
+2023-12-29,Groceries,Not specified,35.5,0.0
+2023-12-29,Charity,Not specified,50.0,0.0
+2023-12-29,Gifts,Not specified,200.0,0.0
+2023-12-31,Savings,Not specified,1500.0,0.0
+2023-12-31,Groceries,Not specified,22.0,0.0
+2023-12-31,Groceries,Not specified,14.0,0.0
+2023-12-31,Groceries,Not specified,19.0,0.0
+2023-12-31,Eating out,Food delivery,95.0,0.0
